@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056359491875",
+    "firebase_url": "https://funday-attendance-mumbai.firebaseio.com",
+    "project_id": "funday-attendance-mumbai",
+    "storage_bucket": "funday-attendance-mumbai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056359491875:android:9fb87eb72e68ba74",
+        "android_client_info": {
+          "package_name": "com.dexterlabs.fundayattendancemumbai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056359491875-hl7eq2dhk2bnba0bv874vmn27mqnn34i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dexterlabs.fundayattendancemumbai",
+            "certificate_hash": "7eaf0b529a6bc4f9b84310ef9dff4670cd56b822"
+          }
+        },
+        {
+          "client_id": "1056359491875-2i5hablskugi7pus9mrsnkloft2cg0tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDWXu1HyIwl6TWVO9M-W2CB1rBFGSmFPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056359491875-2i5hablskugi7pus9mrsnkloft2cg0tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
